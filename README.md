@@ -1,16 +1,13 @@
-## Hi there 👋
+**Bem vindo ao meu perfil** 
 
-<!--
-**isadoralimacunha/isadoralimacunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Isadora Leticia
 
-Here are some ideas to get you started:
+Sou aluna do componente curricular de pensamento computacional pela rede estadual de Educaçao do párana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ultilizo em aula a plantaforma [alura](https//www.alura.com.br)
+
+### para entrar em contato 
+
+isadora.lima.cunha@escola.pr.gov.br
+
+![](https://media1.tenor.com/m/dQ_v0I6RCWMAAAAC/sz%C3%A9gyenl%C5%91s.gif)
